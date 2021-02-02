@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:newtoncesar.dev@gmail.com)](mailto:welbert.jsj@gmail.com)
 
 Hi I'm a back-end developer looking for an opportunity, I have experience in java and python, with some webservice in Rest projects, curing the eighth period of information systems.
+
+
 Python | Java | Spring | Django
 
 ### thank you.
