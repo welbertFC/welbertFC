@@ -13,5 +13,12 @@ https://github.com/welbertFC/projectCRMG
 <a href="https://codebeat.co/projects/github-com-welbertfc-text_analysis_web-master"><img alt="codebeat badge" src="https://codebeat.co/badges/18e7cfe3-7035-4836-aac4-c97a3109d6bb" /></a>
 
 
+https://github.com/welbertFC/API_E-Comerce
+
+<a href="https://codebeat.co/projects/github-com-welbertfc-projectcrmg-master"><img alt="codebeat badge" src="https://codebeat.co/badges/63f287f9-5dab-43a0-ac90-49d7508cb4d0" /></a>
+
+
+
+
 
 ### thank you.
