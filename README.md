@@ -17,6 +17,11 @@ https://github.com/welbertFC/API_E-Comerce
 
 <a href="https://codebeat.co/projects/github-com-welbertfc-projectcrmg-master"><img alt="codebeat badge" src="https://codebeat.co/badges/63f287f9-5dab-43a0-ac90-49d7508cb4d0" /></a>
 
+https://github.com/welbertFC/API_E-Comerce
+
+<a href="https://codebeat.co/projects/github-com-welbertfc-api_e-comerce-main"><img alt="codebeat badge" src="https://codebeat.co/badges/045f7385-f27e-4b8a-a129-901137af2e7f" /></a>
+
+
 
 
 
