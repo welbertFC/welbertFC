@@ -7,7 +7,6 @@ Hi I'm a back-end developer with Web Service in Rest, i curing the eighth period
 <div>
   <a href="https://github.com/welbertFC">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=welbertFC&show_icons=true&count_private=true&theme=vue-dark"/>
-    <width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/?user=welbertFC"/>
 <div>
  <p>
    
