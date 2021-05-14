@@ -7,7 +7,7 @@ Hi I'm a back-end developer with Web Service in Rest, i curing the eighth period
 <div>
   <a href="https://github.com/welbertFC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welbertFC&show_icons=true&theme=vue-dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbertFC&layout=compact&theme=vue-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbertFC&langs_count=3&theme=vue-dark"/>
 <div>
  <p>
    
