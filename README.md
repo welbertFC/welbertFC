@@ -1,31 +1,33 @@
-### Welbert Fernandes Costa
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welbert-fernandes/)](https://www.linkedin.com/in/welbert-fernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:welbert.jsj@gmail.com)](mailto:welbert.jsj@gmail.com)
 
-Hi I'm a back-end developer looking for an opportunity, I have experience in java and python, with some webservice in Rest projects, curing the eighth period of information systems.
 
+Hi I'm a back-end developer with Web Service in Rest, i curing the eighth period of information systems, have experience in java and python with framework Spring, here your can find some of my works, hope you like it, i am available for contacts, thanks.
 
-Python | Java | Spring | Django
+<div>
+  <a href="https://github.com/welbertFC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welbertFC&show_icons=true&theme=vue-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbertFC&layout=compact&theme=vue-dark"/>
+<div>
+ <p>
+   
+   ### My works
+   
+<div>
+ <a href="https://github.com/welbertFC/APIGamesRating">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=APIGamesRating&theme=vue-dark"/>
+    <a href="https://github.com/welbertFC/text_analysis_web">
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=text_analysis_web&theme=vue-dark"/>
+ <div>
+   <p>
+     
+<div style="display: inline_block"><br>
+  <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="New-Sp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
-
-https://github.com/welbertFC/text_analysis_web
-
-<a href="https://codebeat.co/projects/github-com-welbertfc-text_analysis_web-master"><img alt="codebeat badge" src="https://codebeat.co/badges/18e7cfe3-7035-4836-aac4-c97a3109d6bb" /></a>
-
-
-https://github.com/welbertFC/projectCRMG
-
-<a href="https://codebeat.co/projects/github-com-welbertfc-projectcrmg-master"><img alt="codebeat badge" src="https://codebeat.co/badges/63f287f9-5dab-43a0-ac90-49d7508cb4d0" /></a>
-
-
-https://github.com/welbertFC/API_E-Comerce
-
-<a href="https://codebeat.co/projects/github-com-welbertfc-api_e-comerce-main"><img alt="codebeat badge" src="https://codebeat.co/badges/045f7385-f27e-4b8a-a129-901137af2e7f" /></a>
-
-
-
-
-
-
-### thank you.
+### Thanks for your visit.
