@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:welbert.jsj@gmail.com)](mailto:welbert.jsj@gmail.com)
 
 
-Hi I'm a back-end developer with Web Service in Rest, i curing the eighth period of information systems, have experience in java and python with framework Spring, here your can find some of my works, hope you like it, i am available for contacts, thanks.
+Hi I'm a back-end developer with Web Service in Rest, i studying the eighth period of information systems, have experience in java and python with framework Spring, here your can find some of my works, hope you like it, i am available for contacts, thanks.
 
 <div>
   <a href="https://github.com/welbertFC">
