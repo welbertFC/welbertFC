@@ -18,6 +18,9 @@ Hi I'm a back-end developer with Web Service in Rest, i studying the eighth peri
     <a href="https://github.com/welbertFC/text_analysis_web">
    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=text_analysis_web&theme=vue-dark"/>
  <div>
+    <a href="https://github.com/welbertFC/text_analysis_web">
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=welbertFC&repo=AluraflixAPI&theme=vue-dark"/>
+ <div>
    <p>
      
 <div style="display: inline_block"><br>
